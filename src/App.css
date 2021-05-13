@@ -99,3 +99,12 @@ input:checked + .slider:before {
     transform: rotate(360deg);
   }
 }
+
+.bold{
+  font-weight: bold;
+  color: #101820FF;
+}
+
+.thin{
+  color:#b34700;
+}
